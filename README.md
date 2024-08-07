@@ -1,5 +1,5 @@
 # -Image-Processing-and-Histogram-Analysis-
-[Link of google colab project] (https://colab.research.google.com/drive/14rqWLlkB9kUM1NZF1lw9UJ0wokfIkeVW?usp=sharing#scrollTo=b3e38d05)
+[Link of project on google colab] (https://colab.research.google.com/drive/14rqWLlkB9kUM1NZF1lw9UJ0wokfIkeVW?usp=sharing#scrollTo=b3e38d05)
 
 This repository contains a collection of Python functions and scripts for basic image processing and histogram analysis using OpenCV and Matplotlib. These tools are useful for displaying images, comparing image transformations, and analyzing image histograms.
 
